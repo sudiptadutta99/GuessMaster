@@ -42,4 +42,4 @@ A live demo of GuessMaster can be found here: [GuessMaster Demo](https://your-us
 
 ### Author
 
-Created by [Your Name](https://github.com/sudiptadutta99).
+Created by [Sudipta dutta](https://github.com/sudiptadutta99).

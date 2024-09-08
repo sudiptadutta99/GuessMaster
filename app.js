@@ -36,7 +36,7 @@ document.getElementById('submitGuessBtn').addEventListener('click', function() {
         document.getElementById('message').textContent = 'Hint: Your guess is too large.';
     }
 });
-
+// basic logic 
 // const max = prompt("enter the max number");
 // const random = Math.floor(Math.random() * max) +1;
 // let guess = prompt("guess the number");
