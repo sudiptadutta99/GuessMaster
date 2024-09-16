@@ -17,7 +17,7 @@ All you need to run this game is a modern web browser. No additional installatio
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/GuessMaster.git
+    git clone https://github.com/sudiptadutta99/GuessMaster.git
     ```
 2. Open the `index.html` file in your browser to play the game.
 
@@ -38,7 +38,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Demo
 
-A live demo of GuessMaster can be found here: [GuessMaster Demo](https://your-username.github.io/GuessMaster)
+A live demo of GuessMaster can be found here: [GuessMaster Demo](https://sudiptadutta99.github.io/GuessMaster)
 
 ### Author
 
